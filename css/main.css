@@ -1,0 +1,68 @@
+/* Image Setting */
+img{ width: 100%; height: 100%; }
+	.textBtn { font-size: 20px; color: #000000; text-decoration:none; }
+		
+		/* Wrapper Setting */
+		.wrapper{ width: 80%; height: 1250px; background-color: #FFFFF; margin: auto; }
+		
+		/* main Setting ( login / join / FAQ ) */
+		.Main{ width: 100%; height: 7%; background-color: #ffffff; }
+			.mainImgLogo { width: 20%; height: 100%;  float: left }
+			.mainButton {  width: 20%; height: 100%;  float: right; text-align: right;  padding-right: 20px; }
+	
+		/* Menu Settng ( 10 menu ) */	
+		.Meun{ width: 100%; height: 5%; background-color: #dddddd; }
+			.NavBarMenus { width: 80%; height: 100%;  margin: auto; }
+			.menus{ width: 100px; font-size: 20px; color: #000000; font-weight: bold; text-decoration:none;  }
+			/* menu : hover */
+			.menu1:hover{ background-color: #2d3d3d3d; }
+			.menu2:hover{ background-color: #2d3d3d3d; }
+			.menu3:hover{ background-color: #2d3d3d3d; }
+			.menu4:hover{ background-color: #2d3d3d3d; }
+			.menu5:hover{ background-color: #2d3d3d3d; }
+			.menu6:hover{ background-color: #2d3d3d3d; }
+			.menu7:hover{ background-color: #2d3d3d3d; }
+			.menu8:hover{ background-color: #2d3d3d3d; }
+			.menu9:hover{ background-color: #2d3d3d3d; }
+			.menu10:hover{ background-color: #2d3d3d3d; }
+			/* menus */
+				.menu1{ width: 10%; height: 80%; float:left; padding-top: 15px; text-align: center; }
+				.menu2{ width: 10%; height: 80%; float:left; padding-top: 15px; text-align: center;}
+				.menu3{ width: 10%; height: 80%; float:left; padding-top: 15px; text-align: center;}
+				.menu4{ width: 10%; height: 80%; float:left; padding-top: 15px; text-align: center;}
+				.menu5{ width: 10%; height: 80%; float:left; padding-top: 15px; text-align: center;}
+				.menu6{ width: 10%; height: 80%; float:left; padding-top: 15px; text-align: center;}
+				.menu7{ width: 10%; height: 80%; float:left; padding-top: 15px; text-align: center;}
+				.menu8{ width: 10%; height: 80%; float:left; padding-top: 15px; text-align: center;}
+				.menu9{ width: 10%; height: 80%; float:left; padding-top: 15px; text-align: center;}
+				.menu10{ width: 10%; height: 80%; float:left; padding-top: 15px; text-align: center;}
+
+		/* Banner Setting */
+		.Banner{ width: 100%; height: 26%; background-color: #afeeee; }
+		
+		/* Shortcut Setting ( 8 shortcut ) */
+		.Shortcut{ width: 100%; height: 20%; background-color: #f0ffff; }
+			.shortcutMenus { width: 100%; height: 100%; background-color: gray; margin : auto;  }
+				.shortcut1 { width: 12.5%; height: 100%; background-color: #ff0fff; float: left; }
+				.shortcut2 { width: 12.5%; height: 100%; background-color: #3ff0ff; float: left; }
+				.shortcut3 { width: 12.5%; height: 100%; background-color: #ffff0f; float: left; }
+				.shortcut4 { width: 12.5%; height: 100%; background-color: #fffff0; float: left; }
+				.shortcut5 { width: 12.5%; height: 100%; background-color: #ffff0f; float: left; }
+				.shortcut6 { width: 12.5%; height: 100%; background-color: #fff0ff; float: left; }
+				.shortcut7 { width: 12.5%; height: 100%; background-color: #3d0dff; float: left; }
+				.shortcut8 { width: 12.5%; height: 100%; background-color: #f0ffda; float: left; }
+		
+		/* Middle Setting ( notice / 4 ad ) */		
+		.Middle{ width: 100%; height: 32%;  }
+			.notice{ width: 40%; height: 100%;  float: left; }
+				.notice img { width: 90%; height: 90%; padding: 5px; padding-top: 10px;}
+			.ad{ width: 60%; height: 100%;  float: right; }
+			.ad img { width: 80%; height: 70%; padding: 4%; padding-left: 20px; }
+					.ad1{ width: 50%; height: 50%; float:left; }
+					.ad2{ width: 50%; height: 50%; float:left;}
+					.ad3{ width: 50%; height: 50%; float:left; }
+					.ad4{ width: 50%; height: 50%; float:left; }
+
+		/* Imformaiton Setting */			
+		.Inf{ width: 100%; height: 10%; background-color: #f0f1f2;  }
+		.infText{ font-size: 20px; background-color: #f0f1f2; float: left; padding-top: 25px; padding-left: 50px; }
